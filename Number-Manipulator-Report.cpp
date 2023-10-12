@@ -3,19 +3,19 @@
 //*                                                                     * 
 //* Written by      : Anthony Cantu                                     * 
 //*                                                                     * 
-//* Purpose         : The purpose of this program is to take two		    *
-//*					  seperate numerical values and break them down.	          *
-//*					  First by simply finding the sum, difference,		          *
-//*					  product, and quotient of the two. Second by		            *
-//*					  finding the same values but in Integer format.	          *
-//*					  Lastly, finding the values once again but in		          *
-//*					  Decimal format.									                          * 
+//* Purpose         : The purpose of this program is to take two	*
+//*		      seperate numerical values and break them down.	*
+//*		      First by simply finding the sum, difference,	*
+//*		      product, and quotient of the two. Second by	*
+//*		      finding the same values but in Integer format.	*
+//*		      Lastly, finding the values once again but in	*
+//*		      decimal format.					* 
 //*                                                                     * 
-//* Inputs          : User enters two numbers following the				      *
-//*					  instructions provided.							                      * 
+//* Inputs          : User enters two numbers following the		*
+//*					  instructions provided.	* 
 //*                                                                     * 
 //* Outputs         : Display the different formarts of the two numbers	*
-//*					  provided											                            * 
+//*					  provided			* 
 //*                                                                     * 
 //* Calls           : No internal or external calls                     * 
 //*                                                                     * 
@@ -25,15 +25,15 @@
 //*                        End of Program                               * 
 //*                                                                     * 
 //*---------------------------------------------------------------------* 
-//* Collaboration   : Got help from Prof. Urrutia for using the fabs	  *
-//*					          fucntion, unclear if I was able to use it for     *
-//*                   this assignment.											            *
+//* Collaboration   : Got help from Prof. Urrutia for using the fabs	*
+//*		      fucntion, unclear if I was able to use it for     *
+//*                   this assignment.					*
 //*                                                                     * 
 //*---------------------------------------------------------------------* 
 //* Change Log:                                                         * 
 //*                         Revision                                    * 
 //*       Date    Changed  Rel Ver Mod Purpose                          * 
-//* 09/06/23      acantu 000.000.000 Initial release of program			    * 
+//* 09/06/23      acantu 000.000.000 Initial release of program		* 
 //*                                                                     * 
 //* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 #include <iostream>
